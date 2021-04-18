@@ -1,0 +1,7 @@
+pycocotools
+numpy
+scikit-image
+matplotlib
+pylab-sdk
+requests
+opencv-python
